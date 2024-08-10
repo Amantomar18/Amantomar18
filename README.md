@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Amantomar18
 - 👀 I’m interested in make a different website
 - 🌱 I’m currently learning front end, back end and UI/UX
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Gmail amantomar8980@gmail.com and Instagram aman_tomar_17
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I'm interested in makes new website and learn how they perfectly work's
 
 <!---
