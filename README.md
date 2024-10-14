@@ -1,7 +1,4 @@
-Here's a professional and engaging GitHub bio for you:
 
-
----
 
 Hi there, I'm Aman Tomar 👋
 
