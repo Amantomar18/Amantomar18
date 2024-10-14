@@ -1,17 +1,39 @@
-- 👋 Hi, I’m Aman tomar
- Join me on a journey through the world of coding! from building simple projects to exploring complex algorithms I'm always eager to learn and grow let's create something amazing together
+Here's a professional and engaging GitHub bio for you:
 
-- 👀 I’m interested in makes different website
 
-- 🌱 I’m currently learning front end, back end and UI/UX
+---
 
--📱 My first landing page https://codepen.io/Aman-Tomar-the-sans/full/eYwxvRy
+Hi there, I'm Aman Tomar 👋
 
-- 📫 How to reach me Gmail amantomar8980@gmail.com and Instagram aman_tomar_17
+🔧 Frontend Developer & UI/UX Enthusiast
 
-- ⚡ Fun fact: I'm interested in makes new website and learn how they perfectly work's
+💻 Passionate about crafting intuitive and
 
-<!---
-Amantomar18/Amantomar18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ responsive user interfaces using HTML, CSS, and JavaScript.
+
+🎨 I love blending aesthetics with
+
+ functionality to create seamless digital experiences.
+
+💡 Constantly learning and experimenting with new technologies and design patterns.
+
+🌐 Skills:
+
+Languages: HTML, CSS, JavaScript
+
+Frameworks: React and Bootstrap
+
+Design:  UI/UX Principles
+
+
+🚀 Currently Working On: Enhancing my frontend skills and contributing to open-source projects.
+
+📫 Reach Me At: Gmail👉:amantomar8980@gmail.com
+
+✨ Fun Fact: I'm always up for a coding challenge and love collaborating on creative projects.
+
+
+---
+
+Feel free to adjust the links and content to fit your personal style and experiences!
+
