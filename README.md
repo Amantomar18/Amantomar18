@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Amantomar Join me on a journey through the world of coding! from building simple projects to exploring complex algorithms I'm always eager to learn and grow let's create something amazing together
+- 👋 Hi, I’m Aman tomar
+ Join me on a journey through the world of coding! from building simple projects to exploring complex algorithms I'm always eager to learn and grow let's create something amazing together
 
 - 👀 I’m interested in makes different website
 
